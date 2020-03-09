@@ -1,0 +1,6 @@
+framework module Pods_DAZCaseStudy {
+  umbrella header "Pods-DAZCaseStudy-umbrella.h"
+
+  export *
+  module * { export * }
+}

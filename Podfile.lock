@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.0.2)
+  - FeedKit (9.0.0)
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+  - SWXMLHash (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - FeedKit (~> 9.0)
+  - Kingfisher (~> 5.0)
+  - SWXMLHash (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FeedKit
+    - Kingfisher
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  FeedKit: 9ffa2434af293df73ac069129900498b3f89cb2e
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+
+PODFILE CHECKSUM: 1a2845536f60c994868bb770ae0814f2d25892dd
+
+COCOAPODS: 1.9.0
